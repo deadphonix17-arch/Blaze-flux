@@ -1,0 +1,15 @@
+{
+  "type": "overgeared_smelting:count_blasting",
+  "category": "misc",
+  "cookingtime": 100,
+  "experience": 0.3,
+  "ingredient": [
+    {
+      "item": "overgeared:steel_shovel"
+    }
+  ],
+  "result": {
+    "item": "overgeared:steel_ingot",
+    "count": 1
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "type": "overgeared_smelting:count_blasting",
+  "category": "misc",
+  "cookingtime": 100,
+  "experience": 1.0,
+  "ingredient": [
+    {
+      "item": "overgeared_buffed_gear:diamond_helmet"
+    },
+    {
+      "item": "overgeared_buffed_gear:diamond_chestplate"
+    },
+    {
+      "item": "overgeared_buffed_gear:diamond_leggings"
+    },
+    {
+      "item": "overgeared_buffed_gear:diamond_boots"
+    },
+    {
+      "item": "overgeared_buffed_gear:diamond_pickaxe"
+    },
+    {
+      "item": "overgeared_buffed_gear:diamond_axe"
+    },
+    {
+      "item": "overgeared_buffed_gear:diamond_shovel"
+    },
+    {
+      "item": "overgeared_buffed_gear:diamond_hoe"
+    },
+    {
+      "item": "overgeared_buffed_gear:diamond_sword"
+    }
+  ],
+  "result": {
+    "item": "overgeared:diamond_plate",
+    "count": 8
+  }
+}

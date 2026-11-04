@@ -1,0 +1,15 @@
+{
+  "type": "overgeared_smelting:count_smelting",
+  "category": "misc",
+  "cookingtime": 200,
+  "experience": 0.5,
+  "ingredient": [
+    {
+      "item": "overgeared:steel_pickaxe"
+    }
+  ],
+  "result": {
+    "item": "overgeared:steel_ingot",
+    "count": 3
+  }
+}

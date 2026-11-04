@@ -1,0 +1,15 @@
+{
+  "type": "overgeared_smelting:count_blasting",
+  "category": "misc",
+  "cookingtime": 100,
+  "experience": 1.0,
+  "ingredient": [
+    {
+      "item": "overgeared:steel_leggings"
+    }
+  ],
+  "result": {
+    "item": "overgeared:steel_plate",
+    "count": 8
+  }
+}
